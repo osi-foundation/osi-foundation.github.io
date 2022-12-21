@@ -2,7 +2,7 @@
 
 # Who and What is OSI?
 
-OSI is simply a non-profit project with only one goal; sharing information, and not just any information; accurate information.
+OSI is simply a non-profit project with only one goal: sharing information, and not just any information; accurate information.
 
 # How do we work?
 
